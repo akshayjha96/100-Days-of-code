@@ -1,2 +1,3 @@
 # 100-Days-of-code
-exploration of python in depths and breath of its endless boundaries.  
+Delve into the vast expanse of Python, exploring its boundless depths and endless possibilities.
+
